@@ -11,6 +11,8 @@
 
 # Humble Mun Studios
 
+> 衡门栖迟: "The humble gate is enough for dwelling." We code with care, or rest with peace.
+
 A boutique software studio inspired by the ancient Chinese verse:
 "The humble gate is enough for dwelling; the flowing stream is enough to content the hunger."
 
